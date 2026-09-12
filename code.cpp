@@ -21,7 +21,3 @@ int main()
     cout<<sum;
     return 0;
 }
-git status
-git add .
-git commit -m "update"
-git push origin main
